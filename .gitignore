@@ -1,0 +1,29 @@
+# Виртуальное окружение
+venv/
+
+# Данные
+data
+
+# Кеши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы настроек IDE и редакторов
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Логи, временные файлы
+*.log
+*.tmp
+*.swp
+
+# Файлы Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
